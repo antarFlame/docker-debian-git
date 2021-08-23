@@ -1,4 +1,4 @@
-FROM debian:stable-slim
+FROM debian:stable
 MAINTAINER Samuel Debruyn <s@muel.be>
 
 ENV DEBIAN_FRONTEND noninteractive
